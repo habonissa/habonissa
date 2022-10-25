@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1>Hi, I'm Habon! <br/><a >Scientist</a>, <a>Programmer</a>, <a>Pseudo-Engineer</a></h1>
 
-<!--
-**habonissa/habonissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Scientific Contributions:</h2>
 
-Here are some ideas to get you started:
+- <b>Publication record</b>
+  - [Google scholar page](https://scholar.google.com/citations?user=MPWyGs0AAAAJ&hl=en)
+  - [Prize for 2020 publication](https://blogs.biomedcentral.com/on-biology/2020/11/30/bsaf-editors-choice-award/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Science communication samples</b>
+  - [Invited talk, Cosyne 2021](https://www.youtube.com/watch?v=q8bUXAjUJyY)
+  - [Moderator, Growing Up in Science](https://www.youtube.com/watch?v=Vg0xbPYV7pA)
+
+
+<h2>Coding Projects:</h2>
+
+
+- <b>C++/Arduino</b>
+  - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask)
+  - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask)
+- <b>Python</b>
+  - [Fiber Photometry Analysis]()
+
+
+
+<h2>Build Projects:</h2>
+
+
+- <b>For operant task during neural recordings</b>
+  - [Wiring diagram](https://github.com/habonissa/BarrierOperantTasks/blob/main/Wiring%20diagram%20and%20materials/Wiring%20diagram%20plain.pdf)
+  - [3D print files](https://github.com/habonissa/BarrierOperantTasks/tree/main/3D%20print%20files)
+  - [Laser cut files](https://github.com/habonissa/BarrierOperantTasks/tree/main/Laser%20cutting%20files)
+
+
+
+
+
+<h2> Connect with me:</h2>
+
+
+[<img align="left" alt="HabonIssa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/habon-issa/

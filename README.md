@@ -1,4 +1,4 @@
-<h1>Hi, I'm Habon! <br/><a >Scientist</a>, <a>Programmer</a>, <a>Pseudo-Engineer</a></h1>
+<h1>Hi, I'm Habon!
 
 <h2>Scientific Contributions:</h2>
 

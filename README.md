@@ -18,7 +18,7 @@
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask)
   - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask)
 - <b>Python</b>
-  - [Fiber Photometry Analysis]()
+  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
 
 
 

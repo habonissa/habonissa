@@ -19,7 +19,7 @@
   - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask)
 - <b>Python</b>
   - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
-  - [Whole Brain cFos Analysis] (https://github.com/habonissa/WholeBraincFosAnalysis)
+  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis)
 
 
 

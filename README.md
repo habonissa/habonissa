@@ -14,8 +14,7 @@
 <h2>Coding Projects:</h2>
 
 - <b>Python</b>
-  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis)
-    - This automates visualization and statistical testing for whole brain activity (cFos density) data
+  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing for whole brain activity (cFos density) data
   - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
 - <b>C++/Arduino</b>
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask)

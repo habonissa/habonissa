@@ -15,7 +15,7 @@
 
 - <b>Python</b>
   - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing for whole brain activity (cFos density) data
-  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
+  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry): automates alignment of brain activity (photometry signal) to behavioral events, visualizaiton of epochs of interest, and generates .csv file isolating relevant epochs to easily import into other statistical software for further analysis
 - <b>C++/Arduino</b>
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask)
   - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask)

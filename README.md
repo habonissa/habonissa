@@ -13,13 +13,14 @@
 
 <h2>Coding Projects:</h2>
 
-
+- <b>Python</b>
+  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis)
+  - <h4>Test</h4>
+  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
 - <b>C++/Arduino</b>
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask)
   - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask)
-- <b>Python</b>
-  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis)
-  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
+
 
 
 

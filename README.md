@@ -15,7 +15,7 @@
 
 - <b>Python</b>
   - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing of whole brain activity data across experimental groups and ranks outputs by statistical significance enabling faster identification of brain regions most associated with the experimental intervention
-  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry): automates alignment of brain activity (photometry signal) to behavioral events, visualizaiton of epochs of interest, and generates .csv file isolating relevant epochs to easily import into other statistical/visualization softwares for further analysis
+  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry): automates alignment of brain activity to recorded behavioral events, visualizaiton of epochs of interest, and generates .csv file isolating relevant epochs to easily import into other statistical/visualization softwares for further analysis
 - <b>C++/Arduino</b>
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask): allows arduino-controlled door to open in response to pressing of arduino-controlled sensor and close in response to keyboard prompt
   - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask): allows arduino-controlled door to open in response to pressing of arduino-controlled sensor and close in response to keyboard prompt. Unlike the Fixed Ratio Operant Task, this verion requires a progressively greater number of sensor presses to open the door as behavioral trial numbers increase

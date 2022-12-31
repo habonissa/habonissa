@@ -15,7 +15,7 @@
 
 - <b>Python</b>
   - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis)
-    - <h6>Test</h6>
+    - <small>Test</small>
   - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry)
 - <b>C++/Arduino</b>
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask)

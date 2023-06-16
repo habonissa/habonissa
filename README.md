@@ -6,10 +6,6 @@
   - [Google scholar page](https://scholar.google.com/citations?user=MPWyGs0AAAAJ&hl=en)
   - [Prize for 2020 publication](https://blogs.biomedcentral.com/on-biology/2020/11/30/bsaf-editors-choice-award/)
 
-- <b>Science communication samples</b>
-  - [Invited talk, Cosyne 2021](https://www.youtube.com/watch?v=q8bUXAjUJyY)
-  - [Moderator, Growing Up in Science](https://www.youtube.com/watch?v=Vg0xbPYV7pA)
-
 
 <h2>Coding Projects:</h2>
 

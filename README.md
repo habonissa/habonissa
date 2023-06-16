@@ -14,9 +14,10 @@
 <h2>Coding Projects:</h2>
 
 - <b>Python</b>
-  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing of whole brain activity data across experimental groups and ranks outputs by statistical significance enabling rapid identification of brain regions most associated with experimental interventions
   - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry): automates alignment of brain activity to recorded behavioral events, visualizaiton of epochs of interest, and generates .csv file isolating relevant epochs to easily import into other statistical/visualization softwares for further analysis
   - [KaggleX BIPOC Mentorship Program Project](https://github.com/habonissa/KaggleXBIPOCMentorshipProject): Script to measure bias in saliency-based image cropping method. This builds on code and finidings from ‘Auditing saliency cropping algorithms’ by Birthane, Prabhu and Whaley
+  - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing of whole brain activity data across experimental groups and ranks outputs by statistical significance enabling rapid identification of brain regions most associated with experimental interventions
+
 - <b>C++/Arduino</b>
   - [Fixed Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/FixedRatioTask): allows arduino-controlled door to open in response to pressing of arduino-controlled sensor and close in response to keyboard prompt
   - [Progressive Ratio Operant Task](https://github.com/habonissa/BarrierOperantTasks/tree/main/ProgressiveRatioTask): allows arduino-controlled door to open in response to pressing of arduino-controlled sensor and close in response to keyboard prompt. Unlike the Fixed Ratio Operant Task, this verion requires a progressively greater number of sensor presses to open the door as behavioral trial numbers increase

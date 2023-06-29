@@ -11,7 +11,8 @@
 
 - <b>Python</b>
   - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing of whole brain activity data across experimental groups and ranks outputs by statistical significance enabling rapid identification of brain regions most associated with experimental interventions
-  - [Fiber Photometry Analysis](https://github.com/habonissa/FreelyMovingPhotometry): automates alignment of brain activity to recorded behavioral events, applies motion artifact correction for freely-moving subjects, visualizaiton of epochs of interest, and generates .csv file isolating relevant epochs to easily import into other statistical/visualization softwares for further analysis
+  - [Fiber Photometry Code](https://github.com/habonissa/FreelyMovingPhotometry): automates alignment of brain activity to recorded behavioral events, applies motion artifact correction for freely-moving subjects, visualizaiton of epochs of interest for the individual being analyzed, and generates .csv file isolating relevant epochs for further analysis
+  - - 
   - [KaggleX BIPOC Mentorship Program Project](https://github.com/habonissa/KaggleXBIPOCMentorshipProject): Script to measure bias in saliency-based image cropping method. This builds on code and finidings from ‘Auditing saliency cropping algorithms’ by Birthane, Prabhu and Whaley
 
 - <b>C++/Arduino</b>

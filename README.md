@@ -11,7 +11,7 @@
 
 - <b>Python</b>
   - [Animal Tracking in Videos](https://github.com/habonissa/Tracking): currently contains
-    - Tracking.ipynb: Easy bounding box creation and YOLO-formatted .txt exports for images that we currently use to reweight YOLO for animal tracking
+    - LABEL_IMAGES.ipynb: Easy Colab-based bounding box creation and YOLO-formatted .txt exports for images that we currently use to reweight YOLO for animal tracking
   - [Whole Brain cFos Analysis](https://github.com/habonissa/WholeBraincFosAnalysis): automates visualization and statistical testing of whole brain activity data across experimental groups and ranks outputs by statistical significance enabling rapid identification of brain regions most associated with experimental interventions
   - [Fiber Photometry Code](https://github.com/habonissa/FreelyMovingPhotometry): currently contains two codes
     - Photometrycode.ipynb: automates alignment of brain activity to recorded behavioral events, applies motion artifact correction for freely-moving subjects, visualizaiton of epochs of interest for the individual being analyzed, and generates .csv file isolating relevant epochs for further analysis
